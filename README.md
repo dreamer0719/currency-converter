@@ -28,7 +28,6 @@ A CLI project that allows the user to convert the value of a currency to another
 - PLN (Polish Złoty)  
 - RON (Romanian Leu)  
 - SEK (Swedish Krona)
-- 
 ## Skill Used
 - Python
 - Request & JSON
