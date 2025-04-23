@@ -1,6 +1,9 @@
 # Currency Converter
 A CLI project that allows the user to convert the value of a currency to another. Connects to exchange rates using the API. 
 
+## Video Demo
+https://github.com/user-attachments/assets/dacda817-b97a-41c0-b9a4-c6cdd18d162e
+
 ## List of available currencies:
 - AUD (Australian Dollar)  
 - BGN (Bulgarian Lev)  
